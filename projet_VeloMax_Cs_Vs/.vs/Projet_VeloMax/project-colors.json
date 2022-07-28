@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28313e94-33be-46d7-bad5-b3bcad90dc5c": {
+      "ProjectGuid": "28313e94-33be-46d7-bad5-b3bcad90dc5c",
+      "DisplayName": "Projet_VeloMax",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
